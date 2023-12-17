@@ -9,41 +9,27 @@ defineOgImage()
         <div class="flex justify-between">
           <div>
             <h1 class="text-xl sm:text-4xl  pb-2 font-bold ">
-              Al Asad Nur Riyad
+              Mar
             </h1>
 
             <div class="my-3 space-x-3 pb-10">
               <NuxtLink
-                to="https://github.com/nurRiyad"
+                to="https://nl.linkedin.com/in/verbeekmarjolein"
                 target="_blank"
-                class="px-3 py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="Github"
-              >
-                <Icon name="fa:github" size="1em" />
-              </NuxtLink>
-              <NuxtLink
-                to="https://www.linkedin.com/in/nur-riyad/"
-                target="_blank"
+                no-referrer
                 class="px-3 py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
                 aria-label="LinkedIn"
               >
                 <Icon name="fa:linkedin-square" size="1em" />
               </NuxtLink>
               <NuxtLink
-                to="https://twitter.com/qdnvubp"
+                to="https://www.instagram.com/marligtvoet/"
                 target="_blank"
+                no-referrer
                 class="px-3 py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="Twitter"
+                aria-label="Instragram"
               >
-                <Icon name="fa:twitter-square" size="1em" />
-              </NuxtLink>
-              <NuxtLink
-                to="https://stackoverflow.com/users/16781395/nur-riyad"
-                target="_blank"
-                class="px-3 py-2 bg-gray-300 text-gray-800 rounded-md dark:bg-slate-700 dark:text-[#F1F2F4]"
-                aria-label="StackOverflow"
-              >
-                <Icon name="fa:stack-overflow" size="1em" />
+                <Icon name="fa:instagram" size="1em" />
               </NuxtLink>
             </div>
           </div>
@@ -58,14 +44,14 @@ defineOgImage()
           </div>
         </div>
         <h3 class="text-base sm:text-3xl font-semibold pb-7 sm:pb-12">
-          Software Engineer, Problem Solver, Web Enthusiast.
+          Marketeer, blogger, vlogger, lezer, retraitant
         </h3>
 
-        <p>Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!</p>
+        <p>Hallo allemaal, ik vlog, blog, lees en regelmatig neem ik deel aan retraites. Ik ben gepassioneerd over het delen van mijn ervaringen en inzichten met anderen.</p>
       </div>
       <div class="hidden sm:block col-span-3">
         <NuxtImg
-          src="/riyad.jpg"
+          src="https://instagram.frtm1-1.fna.fbcdn.net/v/t39.30808-6/374698982_18285096016127838_2741827053697534505_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.frtm1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=OACiC_7wZvYAX9lGony&edm=APU89FAAAAAA&ccb=7-5&oh=00_AfAspWVz-5MwsCfX_woa6H-xm3suAUrZBodL5wmAtIEC5g&oe=657EECF1&_nc_sid=bc0c2c"
           width="450"
           height="500"
           quality="50"

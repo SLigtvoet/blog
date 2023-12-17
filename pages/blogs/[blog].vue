@@ -30,7 +30,7 @@ useHead({
       content: data.value.description,
     },
     // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
-    { property: 'og:site_name', content: 'Riyad\'s Blog' },
+    { property: 'og:site_name', content: 'Mar\'s Blog' },
     { hid: 'og:type', property: 'og:type', content: 'website' },
     {
       property: 'og:url',
@@ -99,7 +99,7 @@ defineOgImage({
       >
         <ContentRenderer v-if="articles" :value="articles">
           <template #empty>
-            <p>No content found.</p>
+            <p>Geen content gevonden</p>
           </template>
         </ContentRenderer>
       </div>

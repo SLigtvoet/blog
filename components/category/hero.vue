@@ -3,11 +3,11 @@
     <div class="grid grid-cols-1 sm:grid-cols-2 items-center">
       <div class="px-6">
         <h1 class="text-black dark:text-zinc-300 font-semibold leading-tight text-4xl md:text-5xl my-5">
-          Categories
+          Categorieën
         </h1>
         <p class="dark:text-zinc-300">
-          Blow All the topics are listed on which either I have written a blog or will write a blog
-          in near future.
+          Hieronder vind je alle categorieën waarover ik een blog heb geschreven of
+          nog ga schrijven in de toekomst.
         </p>
       </div>
       <div class="px-6 justify-self-center">

@@ -16,7 +16,7 @@ withDefaults(defineProps<Props>(), {
   title: 'no-title',
   date: 'no-date',
   description: 'no-description',
-  image: '/nuxt-blog/no-image_cyyits.png',
+  image: '/225.jpg',
   alt: 'no-alt',
   ogImage: '/nuxt-blog/no-image_cyyits.png',
   tags: () => [],
@@ -53,7 +53,7 @@ withDefaults(defineProps<Props>(), {
           {{ description }}
         </p>
         <div class="flex group-hover:underline text-sky-700 dark:text-sky-400 items-center py-2">
-          <p>Read More</p>
+          <p>Lees Meer</p>
           <LogoArrow />
         </div>
       </div>

@@ -2,32 +2,27 @@
 import { makeFirstCharUpper } from '@/utils/helper'
 
 const topics = [
-  'javascript',
-  'typescript',
-  'git',
-  'docker',
-  'kubernetes',
-  'vue',
-  'nuxt',
-  'pinia',
-  'vuex',
-  'firebase',
-  'supabse',
-  'cypress',
-  'vercel',
-  'namecheap',
+  'psychologie',
+  'retreats',
+  'familieopstellingen',
+  'dokter jurriaan',
+  'trauma',
+  'depressie',
+  'burnout',
+  'anti-depressiva',
+  'angst',
+  'yoga',
 ]
 
 useHead({
-  title: 'Categories',
+  title: 'Categorieën',
   meta: [
     {
       name: 'description',
-      content:
-        'Below All the topics are listed on which either I have written a blog or will write a blog in near future.',
+      content: 'Hieronder staan alle categorieën waarover ik een blog heb geschreven of in de nabije toekomst zal schrijven.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Mar\'s Blog - %s',
 })
 
 defineOgImage()

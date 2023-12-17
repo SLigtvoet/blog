@@ -61,11 +61,11 @@ useHead({
   title: 'Archive',
   meta: [
     {
-      name: 'description',
-      content: 'Here you will find all the blog posts I have written & published on this site.',
+      name: 'omschrijving',
+      content: 'Hier vind je alle blogposts die ik heb geschreven & gepubliceerd op deze site.',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Mar\'s Blog - %s',
 })
 
 defineOgImage()
@@ -78,7 +78,7 @@ defineOgImage()
     <div class="px-3">
       <input
         v-model="searchTest"
-        placeholder="Search"
+        placeholder="Zoek naar een thema"
         type="text"
         class="block w-full bg-[#F1F2F4] dark:bg-slate-900 dark:placeholder-zinc-500 text-zinc-300  rounded-md border-gray-300 dark:border-gray-800 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
       >

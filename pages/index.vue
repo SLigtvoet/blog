@@ -5,16 +5,16 @@ useHead({
     {
       name: 'description',
       content:
-        'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+        'Welkom op mijn blog site. Laat je verrassen door mijn fantastische content over het moederschap, vloggen, mentale worstelingen en psychologische nog iets',
     },
   ],
-  titleTemplate: 'Riyad\'s Blog - %s',
+  titleTemplate: 'Mar\'s Blog - %s',
 })
 
 // a. Use the Composition API
 defineOgImage({
-  title: 'Riyad\'s Blog',
-  description: 'Welcome To My Blog Site. Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more',
+  title: 'Mar\'s Blog',
+  description: 'Welkom op mijn blog site. Laat je verrassen door mijn fantastische content over het moederschap, vloggen, mentale worstelingen en psychologische nog iets',
 })
 </script>
 
