@@ -3,16 +3,19 @@
     <url>
         <loc>https://blog.nurriyad.xyz/</loc>
         <image:image>
+            <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/helloWorld.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog5.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog4.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog3.webp</image:loc>
+            <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog2.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog2.webp</image:loc>
+            <image:loc>https://blog.nurriyad.xyz/_ipx/w_300/blogs-img/blog3.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -52,6 +55,12 @@
         <loc>https://blog.nurriyad.xyz/blogs/fix-tailwindcss-intellisense-in-nuxt3</loc>
         <image:image>
             <image:loc>https://blog.nurriyad.xyz/_ipx/w_600/blogs-img/blog2.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://blog.nurriyad.xyz/blogs/test-blog</loc>
+        <image:image>
+            <image:loc>https://blog.nurriyad.xyz/_ipx/w_600/blogs-img/helloWorld.jpeg</image:loc>
         </image:image>
     </url>
     <url>
